@@ -1,7 +1,7 @@
-# Use the latest Ubuntu as base image
+# Use the latest Ubuntu as the base image
 FROM ubuntu:latest
 
-# Update APT package index
+# Update APT package manager
 RUN apt-get update
 
 # Upgrade currently installed software
