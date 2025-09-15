@@ -542,6 +542,14 @@ docker-compose ps
 4. 🧪 Test thoroughly
 5. 📤 Submit a pull request
 
+## 👨‍💻 Authors
+
+**Héctor Soto** - [@hector17rock](https://github.com/hector17rock)
+- 🚀 Docker containerization and microservices architecture
+- 🔄 Load balancing and horizontal scaling implementation
+- 🌐 Full-stack integration with Flask and Nginx
+- 📦 Docker Compose orchestration
+
 ## 📄 License {#license}
 
 This project is part of the HBNB Library educational curriculum.
