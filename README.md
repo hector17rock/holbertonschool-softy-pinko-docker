@@ -119,6 +119,10 @@ docker-compose down
 docker system prune -a
 ```
 
+## 👤 Author
+
+**Héctor Soto** - [@hector17rock](https://github.com/hector17rock)
+
 ---
 
 ## 📄 License
